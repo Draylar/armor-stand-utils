@@ -1,9 +1,10 @@
 {
   "required": true,
-  "package": "com.github.draylar.modid.mixin",
+  "package": "com.github.draylar.armorstand.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-
+    "ArmorStandInteractionMixin",
+    "ArmorStandAccessor"
   ],
   "injectors": {
     "defaultRequire": 1

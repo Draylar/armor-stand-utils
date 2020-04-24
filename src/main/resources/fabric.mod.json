@@ -1,13 +1,13 @@
 
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "armorstandutils",
+  "version": "1.0.1",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Armor Stand Utils",
+  "description": "Tweaks armor stands to make them a bit more usable.",
   "authors": [
-    "Me!"
+    "Draylar"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -15,16 +15,11 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/armorstandutils/icon.png",
 
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "net.fabricmc.example.ExampleMod"
-    ]
-  },
   "mixins": [
-    "modid.mixins.json"
+    "armorstandutils.mixins.json"
   ],
 
   "requires": {
