@@ -15,4 +15,4 @@ Draylar's fork of the fabric-example-mod. Changes package structure to my usual 
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This template is available under the MIT license. Feel free to learn from it and incorporate it in your own projects.
