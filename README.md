@@ -1,4 +1,4 @@
-Armor Stand Utils is a simple mod that adds a few useful functions and features to Armor Stands. It's built for 1.14.4 and requires the Fabric Loader & Fabric API to run.
+Armor Stand Utils is a simple mod that adds a few useful functions and features to Armor Stands. It's built for 1.14.4/1.15/1.16 and requires the Fabric Loader & Fabric API to run.
 
 Features: 
 
